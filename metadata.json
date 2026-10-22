@@ -1,0 +1,6 @@
+{
+  "name": "Bimau Safari — Luxury African Expeditions",
+  "description": "Custom luxury African safaris, Great Migration expeditions, Serengeti & Maasai Mara eco-lodges, and wildlife conservation journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
